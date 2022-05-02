@@ -1,8 +1,18 @@
 /home/desenvolvimento/git-curso
 
-----  git init
+git init
 git passo a passo.txt
-----  git add git passo a passo.txt
+git add git passo a passo.txt
 
-----  git config user.name "Soni j. Silva"
-----  git config user.mail "sonijsilva@gmial.com"
+git config user.name "Soni j. Silva"
+git config user.mail "sonijsilva@gmial.com"
+
+git add git\ passo\ a\ passo.txt 
+git commit -m "Comandos iniciais"
+
+git log
+--- usar q para sair
+git add git\ passo\ a\ passo.txt 
+git commit -m "comando git log"
+git 
+
