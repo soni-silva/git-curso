@@ -1,0 +1,8 @@
+/home/desenvolvimento/git-curso
+
+----  git init
+git passo a passo.txt
+----  git add git passo a passo.txt
+
+----  git config user.name "Soni j. Silva"
+----  git config user.mail "sonijsilva@gmial.com"
