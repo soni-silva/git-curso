@@ -14,5 +14,11 @@ git log
 --- usar q para sair
 git add git\ passo\ a\ passo.txt 
 git commit -m "comando git log"
-git 
+git whatchanged
+
+git add git\ passo\ a\ passo.txt 
+git commit -m "criado repositorio remoto"
+
+---- https://github.com/soni-silva/git-curso
+---- link do repositório: https://github.com/soni-silva/git-curso.git
 
