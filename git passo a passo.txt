@@ -16,7 +16,7 @@ git add git\ passo\ a\ passo.txt
 git commit -m "comando git log"
 git whatchanged
 
----- https://github.com/soni-silva/git-curso
+
 ---- link do repositório: https://github.com/soni-silva/git-curso.git
 
 git add git\ passo\ a\ passo.txt 
@@ -27,10 +27,13 @@ git commit -m "criado repositorio remoto"
 git remote add origin https://github.com/soni-silva/git-curso.git 
 git remote
 ---- > origin
+git add git passo a passo.txt
+git commit -m "Enviando para o repositório remoto"
 
 ---- subindo para o repositório remoto:
 git push origin master
-
+git add git passo a passo.txt
+git commit -m "1 Atualizando o repositório remoto"
 
 ---- criando token: https://github.com/settings/tokens/new
 
