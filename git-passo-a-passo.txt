@@ -19,7 +19,7 @@ git whatchanged
 
 ---- link do repositório: https://github.com/soni-silva/git-curso.git
 
-git add git\ passo\ a\ passo.txt 
+git add git-passo-a-passo.txt 
 git commit -m "criado repositorio remoto"
 
 
@@ -35,8 +35,12 @@ git commit -m "Enviando para o repositório remoto"
 ---- subindo para o repositório remoto:
 
 git add git-passo-a-passo.txt
-git commit -m "3 Atualizando o repositório remoto"
+git commit -m "5 Atualizando o repositório remoto"
+git status
 git push origin master
+
+-- cria branch design
+git branch design
 
 
 
