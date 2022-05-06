@@ -30,12 +30,13 @@ git remote
 git add git passo a passo.txt
 git commit -m "Enviando para o repositório remoto"
 
+---- criando token: https://github.com/settings/tokens/new
+
 ---- subindo para o repositório remoto:
 
 git add git-passo-a-passo.txt
 git commit -m "3 Atualizando o repositório remoto"
 git push origin master
----- criando token: https://github.com/settings/tokens/new
 
 
 
