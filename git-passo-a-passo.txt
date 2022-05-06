@@ -39,6 +39,7 @@ git commit -m "5 Atualizando o repositório remoto"
 git status
 git push origin master
 
+-- novo ramo
 -- cria branch design
 git branch design
 
