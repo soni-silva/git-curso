@@ -1,4 +1,4 @@
-/home/desenvolvimento/git-curso
+cd /home/desenvolvimento/git/desenvolvedor1/git-curso
 
 git init
 git passo a passo.txt
